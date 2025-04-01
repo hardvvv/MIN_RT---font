@@ -11,8 +11,8 @@ To use it you need to have a 4х5 matrix, the letters take up all the free space
 In terms of design I gave priority to the right side, it can be seen on some symbols and special symbols, which parts are more oriented to the right.
 
 ## Using the font
-Folder "Font Format" contains typical files for installing font on device
-But the main idea of the font is minimalism, folder "Binary" contains font record in the form of text file and its copy in binary file (the sequence of characters is saved)
+Folder `Font Format` contains typical files for installing font on device
+But the main idea of the font is minimalism, folder `Binary` contains font record in the form of text file and its copy in binary file (the sequence of characters is saved)
 
 ## Logic for writing symbols in binary file
 ![binary file](https://github.com/hardvvv/MIN_RT---font/blob/main/IMG/How%20read%20binary%20file.jpg?raw=true)
