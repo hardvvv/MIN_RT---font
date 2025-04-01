@@ -1,6 +1,6 @@
 # MIN_RT - minimally readable text
 
-![MIN_RT - preview](https://example.com/image.png)
+![MIN_RT - preview](https://github.com/hardvvv/MIN_RT---font/blob/main/IMG/preview.jpg?raw=true)
 
 - [X]  Latin alphabet
 - [X]  Cyrillic alphabet
@@ -15,7 +15,7 @@ Folder "Font Format" contains typical files for installing font on device
 But the main idea of the font is minimalism, folder "Binary" contains font record in the form of text file and its copy in binary file (the sequence of characters is saved)
 
 ## Logic for writing symbols in binary file
-![binary file](https://example.com/image.png)
+![binary file](https://github.com/hardvvv/MIN_RT---font/blob/main/IMG/How%20read%20binary%20file.jpg?raw=true)
 
 - The sequence of characters is the same as in a text file, one character is written in 5 bytes, and immediately after it are the next 5 bytes for the next character. This format was made to optimize processing on microcontrollers, where this font can be successfully implemented
 
@@ -26,3 +26,5 @@ But the main idea of the font is minimalism, folder "Binary" contains font recor
 
 - Last update: 31.03.2025
 - Author link: [`HARD_VVV`](https://hardvvv.carrd.co)
+
+
